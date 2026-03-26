@@ -1,5 +1,6 @@
 body{
     background-image: url('back.jpg');
+
 }
 #keret{
     width: 1000px;
@@ -30,4 +31,25 @@ h1{
     width: 450px;
     background-color: #5B9CEA;
     float: right;
+}
+
+table {
+    background-color: #B0D1F1;
+    border-collapse: collapse;
+
+}
+tr td th{
+    border: 1px solid black;
+}
+th{ 
+     background-color: #B0D1F1;
+}
+
+table{
+    margin: auto;
+    width: 420px;
+}
+
+h2{
+    text-indent: 20px;
 }
